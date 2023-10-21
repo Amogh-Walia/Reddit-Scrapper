@@ -8,6 +8,7 @@ A web scraping application built with Django and PRAW (Python Reddit API Wrapper
 
 - Scrape posts and comments from Reddit subreddits.
 - Customizable scraper settings and filters.
+![image](https://github.com/Amogh-Walia/Reddit-Scrapper/assets/72308844/5ea14606-ac49-4ae6-85ab-c7298441e86e)
 
 ## Prerequisites
 
